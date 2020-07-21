@@ -11,6 +11,7 @@ In this course you will can learn everything about Git and Github, for example:
 - Good Practics 💚
 - Creado por el íncreible Platzi Team
 - Incluye ejemplos en Windows, Linux y Mac
+- Disponible para todas las edades
 
 And much more...
 
