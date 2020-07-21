@@ -9,6 +9,7 @@ In this course you will can learn everything about Git and Github, for example:
 - All commands of Git
 - The professional workflow in GitHub
 - Good Practics 💚
+- Creado por el íncreible Platzi Team
 
 And much more...
 
