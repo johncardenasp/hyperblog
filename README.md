@@ -9,9 +9,9 @@ In this course you will can learn everything about Git and Github, for example:
 - All commands of Git
 - The professional workflow in GitHub
 - Good Practics 💚
-- Creado por el íncreible Platzi Team
-- Incluye ejemplos en Windows, Linux y Mac
-- Disponible para todas las edades
+- Created from Platzi Team
+- It includes examples in Windows, Linux and Mac
+- Avalaible for all ages
 
 And much more...
 
