@@ -15,4 +15,4 @@ In this course you will can learn everything about Git and Github, for example:
 
 And much more...
 
-By the way, **do not take this README.md seriusly**, please 😂. If you really want to learn go to te **[course](https://platzi.com/clases/git-github/ "course")**
+By the way, **do not take this README.md seriusly**, please 😂. If you really want to learn go to the **[course](https://platzi.com/clases/git-github/ "course")**
